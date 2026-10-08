@@ -5,3 +5,4 @@
 - `git diff`: lo que ha cambiado y aún no has preparado
 - `git diff --staged`: lo que ya está preparado
 - `git log --oneline`: el historial, un commit por línea
+`git commit -am`: La `-a` prepara todos los ficheros que git ya seguía y hace el commit, todo de una vez. Es como un `git add` de los ficheros modificados seguido de un `git commit`.
