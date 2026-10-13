@@ -7,3 +7,4 @@
 - `git log --oneline`: el historial, un commit por línea
 `git commit -am`: La `-a` prepara todos los ficheros que git ya seguía y hace el commit, todo de una vez. Es como un `git add` de los ficheros modificados seguido de un `git commit`.
 - `git restor <fichero>`: descarta lo que no has guardado
+- `git commit -am "mensaje"`: add y commit de lo ya seguido
